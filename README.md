@@ -1,1 +1,1 @@
-# Typora note
+# Typora Note
